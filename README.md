@@ -17,5 +17,5 @@ Note* You only need to type your name when prompted, after this you only need to
 ## How to use ##
 
 ```shell
-ruby guess-game.rb
+ruby guessgame.rb
 ```
